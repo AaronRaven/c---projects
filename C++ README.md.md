@@ -11,7 +11,7 @@ I've developed these programs as part of my journey to learn C++. The calculator
 I utilized Visual Studio Code to write both of these programs.
 
 
-The calculator program relies on the main <iostream> library for its core logic and incorporates the <cmath> library for mathematical calculations.Word counter uses <fstream> library to open and read files.
+The calculator program relies on the main iostream library for its core logic and incorporates the cmath library for mathematical calculations.Word counter uses fstream library to open and read files.
 
 # Useful Websites
 
