@@ -1,7 +1,7 @@
 # Overview
 
-I've created two C++ programs: one functions as a semi-scientific calculator, and the other reads text files to count words. While initially designed for LDS hymns, the latter program can handle any text file.
-I've writen these programs as part of my journey to learn C++. The calculator incorporates a do-while loop and if statements to handle errors, employs cases for selecting mathematical functions, and integrates principles of functional programming. Meanwhile, the word counter utilizes file handling to open and process text files, focusing on word counting, and also implements if statements for error handling purposes.
+I've developed two C++ programs: one serves as a semi-scientific calculator, while the other is designed to count words in text files. Whole intended for LDS hymns, the word counter program can handle any text file format.
+I've developed these programs as part of my journey to learn C++. The calculator utilizes a do-while loop and if statements to manage errors, features switch cases for selecting mathematical functions, and incorporates principles of functional programming. Meanwhike, the word counter employs file handling to open and process text files, emphasizing word counting. It also integrates if statements for error handling purposes.
 
 
 [Software Demo Video](http://youtube.link.goes.here)
@@ -11,7 +11,7 @@ I've writen these programs as part of my journey to learn C++. The calculator in
 I utilized Visual Studio Code to write both of these programs.
 
 
-The calculator program relies on the main <iostream> library for its core logic and incorporates the <cmath> library for mathematical calculations.
+The calculator program relies on the main <iostream> library for its core logic and incorporates the <cmath> library for mathematical calculations.Word counter uses <fstream> library to open and read files.
 
 # Useful Websites
 
